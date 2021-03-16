@@ -1,0 +1,13 @@
+.title {
+  text-align: center;
+  color: gold;
+  font-size: 3vw;
+}
+
+.counter-box {
+  text-align: center;
+  margin: 5rem auto;
+  border: 1px solid gold;
+  width: 20vw;
+  height: 10vh;
+}
